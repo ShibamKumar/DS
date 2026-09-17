@@ -1,4 +1,4 @@
-# Customer Churn Prediction — Telco Customer Churn
+# Customer Churn Prediction - Telco Customer Churn
 
 End-to-end data science solution to predict customer churn for a telecommunications
 company, so the retention team can proactively engage at-risk customers.
